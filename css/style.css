@@ -1,0 +1,92 @@
+
+h1{
+    color: rgb(158, 156, 153);
+    letter-spacing: normal;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+p{
+    color: rgb(202, 202, 202);
+    letter-spacing:normal;
+    text-align: center;
+    text-decoration:double;
+    
+}
+h2{
+    color: rgb(158, 156, 153);
+    letter-spacing: normal;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+li{
+    color: rgb(158, 156, 153);
+    letter-spacing: normal;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+body{
+    background-color: rgb(18, 5, 39);
+    font-family: Arial, sans-serif;
+}
+.gustavo{
+width: 250px;
+height: 250px;
+
+}
+.padre{
+    width: 90%;
+    margin: 15px auto;
+    border:6px solid rgb(136, 131, 125);}
+header{
+    background-color: rgb(57, 35, 80);
+    border-bottom: 6px solid rgb(223, 221, 233);
+}
+.tabla-header{
+    width: 100%;
+    border-collapse: collapse;
+}
+.gustavo{
+    width: 120px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(47, 227, 240);
+}
+.gustavo img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border:3px solid rgb(85, 125, 151);}
+
+.puntos{
+    margin: auto;
+    border-collapse: separate;
+    border-spacing: 10px 0;
+}
+.caja{
+    display: block;
+    width: 120px;
+    min-width: 38px;
+    padding: 10px 5px;
+    border: 2px outset rgb(31, 72, 110);
+    border-radius: 10px;
+    background-color: rgb(30, 24, 61);
+    text-align: center;
+    color:rgb(238, 238, 243);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    box-shadow: 2px 2px 5px rgba(216, 202, 202, 0.3);
+}
+.contenido{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
+    url(https://www.larata.cl/wp-content/uploads/2020/11/gustavo-cerati-un-hombre-alado-documental-inedit-768x470.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 350px;
+    border-bottom: 6px solid rgb(14, 13, 12);
+    padding: 20px;}
+
